@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomHeader  헤더 이름이 잘 뜨는가? 1`] = `
+<div>
+  <div>
+    TDD 배우기
+  </div>
+</div>
+`;
